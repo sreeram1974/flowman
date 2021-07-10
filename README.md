@@ -1,2 +1,3 @@
-# Flowman WOrkflow Designer and orchestrator 
- This is intended to be a Workflow management tool with a simple orchestraton engine    
+# Flowman Workflow Designer And Orchestrator 
+ This Is Intended To Be A Workflow Management Tool With A Simple Orchestraton Engine   
+ # Intended Use Is For Developing A Custom Workflow Management Tool 
